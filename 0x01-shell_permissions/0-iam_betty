@@ -1,1 +1,2 @@
-start applying the lesson
+#!/bin/bash
+"su betty"
